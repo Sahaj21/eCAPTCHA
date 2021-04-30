@@ -1,0 +1,23 @@
+{
+  "name": "ecaptcha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sahaj21/eCAPTCHA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sahaj21/eCAPTCHA/issues"
+  },
+  "homepage": "https://github.com/Sahaj21/eCAPTCHA#readme",
+  "devDependencies": {
+    "git-scripts": "^0.4.3",
+    "surge": "^0.23.0"
+  }
+}
